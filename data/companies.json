@@ -1,0 +1,14 @@
+[
+  {
+    "company": "SEB Group",
+    "currency": "SEK millions",
+    "metric": "Total operating income",
+    "history": [
+      {"year": 2020, "revenue": 50628},
+      {"year": 2021, "revenue": 55638},
+      {"year": 2022, "revenue": 64478},
+      {"year": 2023, "revenue": 80193}
+    ],
+    "actual_next": {"year": 2024, "revenue": 81887}
+  }
+]
